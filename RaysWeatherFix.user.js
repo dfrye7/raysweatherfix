@@ -1,7 +1,6 @@
 // ==UserScript==
 // @match      http*://www.booneweather.com/*
-// @match      http*://www.raysweather.com/*
-// @name       BooneWeatherFix
+// @name       RaysWeatherFix
 // @require    http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js
 // ==/UserScript==
 
