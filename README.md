@@ -1,5 +1,4 @@
-# booneweatherfix
-BooneWeather.com Logo Fix
+# Ray's Weather Logo Hotfix
 
 [Ray's Weather](https://www.booneweather.com) (by the famous Dr. Ray Russell) might be my favorite site on the world wide web. Living in the High Country, it's one of the few websites I frequent every day to know how many "golf balls" (0 to 5) the day has in store for me and how warmly I'll need to bundle up. Unfortunately, there's one problem: the logo has been chopped in half!
 
